@@ -18,6 +18,10 @@ input {
   font: inherit;
 }
 
+#text {
+font-size: 56px;
+}
+
 button {
   padding: 8px 12px;
   cursor: pointer;
